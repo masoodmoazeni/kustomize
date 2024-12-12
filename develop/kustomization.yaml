@@ -1,0 +1,4 @@
+resources:
+  - ../application
+patches:
+  - replica_count.yaml
